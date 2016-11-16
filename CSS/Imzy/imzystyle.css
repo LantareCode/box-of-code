@@ -1,0 +1,105 @@
+body{
+	background-color:#5EBA69;	
+}
+.face {
+    width: 400px; 	
+		left: 50%;
+		top:50%;
+		position: absolute;
+		margin: 0 0 0 -150px;/*sit - die px wat als by add*/
+}
+
+.text{
+	font-family: 'Montserrat', sans-serif;
+	position: absolute;
+	color: #050608;
+	font-size:500%;
+	margin: 200px 0 0 20px;
+}
+
+.left-horn{	
+	position: absolute;
+	margin: -150px 0 0 -55px;
+	width: 0;height: 0;
+	border-left: 30px solid transparent;
+	border-right: 30px solid transparent;
+	border-bottom: 100px solid #a7d3a0;
+	transform: rotate(-45deg)
+}
+.left-horn:before{
+	position: absolute;
+	margin: 100px  0 0 -30px;
+	height:20px;
+  width:60px;
+  border-radius: 90px 90px 0 0;    
+  background:#a7d3a0;
+	content: '';
+	transform:rotate(180deg);
+}
+
+.middle-horn{	
+	position: absolute;
+	margin: -220px 0 0 110px;
+	width: 0;height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 110px solid #a7d3a0;
+
+}
+.middle-horn:before{
+	position: absolute;
+	margin: 110px  0 0 -40px;
+	height:20px;
+  width:80px;
+  border-radius: 90px 90px 0 0;    
+  background:#a7d3a0;
+	content: '';
+	transform:rotate(180deg);
+}
+
+.right-horn{	
+	position: absolute;
+	margin: -150px 0 0 300px;
+	width: 0;height: 0;
+	border-left: 30px solid transparent;
+	border-right: 30px solid transparent;
+	border-bottom: 100px solid #a7d3a0;
+	transform: rotate(45deg)
+}
+.right-horn:before{
+	position: absolute;
+	margin: 100px  0 0 -30px;
+	height:20px;
+  width:60px;
+  border-radius: 90px 90px 0 0;    
+  background:#a7d3a0;
+	content: '';
+	transform:rotate(180deg);
+}
+
+
+
+.eye{
+	background:#050608;	
+	height:70px;
+	width:50px;
+	border-radius:50%;		
+	float:left;
+	position: relative;
+}
+.left-eye{
+}
+.right-eye{
+	margin-left:200px;
+}
+.mouth{
+	position: absolute;
+	margin: -30px 0 0 65px;
+	width: 150px;
+  height:140px;
+  border-radius: 200px;
+  border: 10px solid #050608;
+	border-left: 10px solid rgba(255,255,255, 0.0);
+	border-right: 10px solid rgba(255,255,255, 0.0);
+  border-top: 10px solid rgba(255,255,255, 0.0);
+}
