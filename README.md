@@ -1,7 +1,9 @@
-#### Non-interactive CSS Super Mario Animation.
-**Codepen link:** [Super Mario (Animation)](http://codepen.io/LantareCode/full/dOXmBJ/)
+# random this and thats
 
-**Screenshot:**
-[![https://gyazo.com/e5478c120b4b10ca3bc33c41dfc7506c](https://i.gyazo.com/e5478c120b4b10ca3bc33c41dfc7506c.gif)](https://gyazo.com/e5478c120b4b10ca3bc33c41dfc7506c)
+Random coding projects and things.
 
-_Note: The images used were downloaded from: [http://www.videogamesprites.net/SuperMarioBros1/]_
+#### Click below to see explanations, codepen links, screenshots, etc for some of the projects and things:
+
+* [CSS](CSS.md)
+* [JavaScript and JavaScript Libraries](JS.md)
+
