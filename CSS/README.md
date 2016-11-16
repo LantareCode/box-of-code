@@ -1,20 +1,20 @@
 # CSS
 
-#### imzy
-**Codepen link:** [imzy](http://codepen.io/LantareCode/full/ONBbOm/)
+### imzy
+**Codepen link:** [Imzy](http://codepen.io/LantareCode/full/ONBbOm/)
 
 **Screenshot:**
 ![https://i.gyazo.com/97963fdf1d812aa4829fadddfeb7ea13.png](https://i.gyazo.com/97963fdf1d812aa4829fadddfeb7ea13.png)
 
 
-#### deadpool
-**Codepen link:** [deadpool](https://gyazo.com/b02469e8ded793a8b1818da9bbb88d46)
+### deadpool
+**Codepen link:** [Deadpool](http://codepen.io/LantareCode/full/BKvYNB/)
 
 **Screenshot:**
 ![https://i.gyazo.com/b02469e8ded793a8b1818da9bbb88d46.png](https://i.gyazo.com/b02469e8ded793a8b1818da9bbb88d46.png)
 
 
-#### Non-interactive CSS Super Mario Animation.
+### Non-interactive CSS Super Mario Animation.
 **Codepen link:** [Super Mario (Animation)](http://codepen.io/LantareCode/full/dOXmBJ/)
 
 **Screenshot:**

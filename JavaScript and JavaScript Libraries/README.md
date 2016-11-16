@@ -2,7 +2,7 @@
 
 ## p5.js
 
-#### NESClassic
+### NESClassic
 **Codepen link:** [NES p5js](http://codepen.io/LantareCode/full/oYzGeR/)
 
 **Screenshot:**
