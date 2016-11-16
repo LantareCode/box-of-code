@@ -9,5 +9,3 @@
 ![https://i.gyazo.com/cbaf58a39d0a2e6ff78c5300d9e3ae6c.png](https://i.gyazo.com/cbaf58a39d0a2e6ff78c5300d9e3ae6c.png)
 
 
-
-* [back](./README.md)

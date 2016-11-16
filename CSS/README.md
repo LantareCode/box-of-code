@@ -22,6 +22,3 @@
 
 _Note: The images used were downloaded from: [http://www.videogamesprites.net/SuperMarioBros1/]_
 
-
-
-* [back](./README.md)
