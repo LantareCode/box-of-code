@@ -1,3 +1,0 @@
-ref http://wallpapercave.com/wp/OZJlR3q.png mario 8-bit
-sprites source: http://www.videogamesprites.net/SuperMarioBros1/
-http://blog.teamtreehouse.com/css-sprite-sheet-animations-steps
